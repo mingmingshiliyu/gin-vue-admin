@@ -1,3 +1,10 @@
+# Sale模块开发 ing
+支持对接pdd,闲鱼,taobao,抖店,小红书店铺. 将某个平台的商品一键转卖到到其他平台,支持对聊天词转发,pdd下单之后,自动在闲鱼发起下单,因为目前闲鱼虚拟产品价格处于最低级,pdd属于第二级.
+支持对接多种卡商平台进行转卖
+
+
+
+
 
 <div align=center>
 <img src="http://qmplusimg.henrongyi.top/gvalogo.jpg" width="300" height="300" />
